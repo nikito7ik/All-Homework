@@ -1,0 +1,12 @@
+<?xml version = "1.0" ?>
+<pointsList>
+    <point>
+        <unit>cm</unit>
+    </point>
+    <point>
+        <unit>mm</unit>
+    </point>
+    <point>
+        <unit>px</unit>
+    </point>
+</pointsList>
