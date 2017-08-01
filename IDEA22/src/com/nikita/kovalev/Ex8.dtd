@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+        <!ELEMENT pointsList (point*)>
+        <!ELEMENT point (units*)>
+        <!ELEMENT units ()>
+        <!ATTLIST units cm (10|20|30)>
+        <!ATTLIST units mm (100|200|300)>
+        <!ATTLIST units px (377|755|1133)>
