@@ -1,0 +1,18 @@
+<?xml version = "1.0" ?>
+<pointsList>
+    <point>
+        <cm>10</cm>
+        <mm>100</mm>
+        <px>377</px>
+    </point>
+    <point>
+        <cm>20</cm>
+        <mm>200</mm>
+        <px>755</px>
+    </point>
+    <point>
+        <cm>30</cm>
+        <mm>300</mm>
+        <px>1133</px>
+    </point>
+</pointsList>
